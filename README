@@ -1,6 +1,496 @@
-Git is B ditributed version control system.
-Git is free software.
-Git is add
-Git has a mutable index called stage.
-Git tracks changes of files.
-IGIGIGI
+2  cordova platform add android ~5.1.1
+    3  cordova run android ~5.1.1
+    4  cordova run android
+    5  cd /
+    6  cd usr/
+    7  ls
+    8  cd lib
+    9  ls
+   10  cordova
+   11  cordova platform
+   12  sudo npm update -g cordova
+   13  cd /python; clear; pwd
+   14  python
+   15  ls
+   16  cd tornado-master
+   17  ls
+   18  python setup.py
+   19  setup.py
+   20  python setup.py
+   21  vi setup.py
+   22  python
+   23  python setup.py build
+   24  sudo python setup.py install
+   25  python setup.py build
+   26  sudo python setup.py install
+   27  pip
+   28  which python
+   29  brew install python
+   30  wget https://bootstrap.pypa.io/get-pip.py
+   31  pip
+   32  cd ~
+   33  cd Library/
+   34  ls
+   35  python home
+   36  cd /
+   37  cd usr/
+   38  ls
+   39  cd local/
+   40  ls
+   41  cd Library/
+   42  ls
+   43  cd /
+   44  ls
+   45  cd ~
+   46  ls
+   47  cd Library/
+   48  l
+   49  ls
+   50  cd Python/
+   51  ls
+   52  cd 2.7/
+   53  ls
+   54  open .
+   55  cordova
+   56  ls
+   57  cd Desktop/
+   58  ls
+   59  mkdir cordova
+   60  cd cordova/
+   61  ls
+   62  cordova create hello com.example.hello HelloWorld
+   63  cd hello/
+   64  ls
+   65  cordova platform add android --save
+   66  open .
+   67  cordova plugin add https://github.com/winterSleep/MyPlugin.git
+   68  cd /
+   69  ls
+   70  cd python/
+   71  ls
+   72  cd tornado-demo/
+   73  ls
+   74  python tornadohello.py
+   75  sudo easy_install pip
+   76  pip
+   77  pip list
+   78  pip install --upgrade pip
+   79  sudo pip install --upgrade pip
+   80  pip list
+   81  pip show tornado
+   82  pip show pip
+   83  pip search tornado
+   84  pip list --oudated
+   85  pip list --outdated
+   86  pip install tornado
+   87  cd  /
+   88  cd python/
+   89  ls
+   90  cd tornado-demo/
+   91  ls
+   92  python tornadohello2.py
+   93  touch tor.py
+   94  vi tor.py
+   95  python tor.py
+   96  python tor.py
+   97  python tor.py
+   98  curl http://localhost:8000
+   99  curl http://localhost:8000/?greeting=Salutations
+  100  pip install mongokit
+  101  sodu pip install mongokit
+  102  sudo pip install mongokit
+  103  pip list
+  104  python
+  105  cd /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python; clear; pwd
+  106  cd /Library/Python/2.7; clear; pwd
+  107  pwd
+  108  cd /Library/Python/2.7/site-packages; clear; pwd
+  109  pwd
+  110  ls *.pth
+  111  ls
+  112  cd /Library/Python/2.7; clear; pwd
+  113  pwd
+  114  pwd
+  115  cd /System/Library/Frameworks/Python.framework/Versions/2.7/lib/
+  116  open .
+  117  python -m pip install pymongo
+  118  python -m pip install --upgrade pymongo
+  119  pip install pymongo==2.6.3
+  120  sudo pip install pymongo==2.6.3
+  121  ifconfig
+  122  ifconfig
+  123  git --version
+  124  /etc
+  125  cd /
+  126  cd etc/
+  127  ls
+  128  git config --list
+  129  git
+  130  cd ~/.ssh/
+  131  ls
+  132  open .
+  133  cd ..
+  134  ls
+  135  ls -la
+  136  open .
+  137  cd /
+  138  cd usr/local/
+  139  open .
+  140  cd /
+  141  which git
+  142  /usr/bin/
+  143  cd /usr/bin/
+  144  open .
+  145  brew install git
+  146  sudo brew install git
+  147  git --version
+  148  cd /
+  149  git --verison
+  150  git --version
+  151  git --version
+  152  brew install git
+  153  sudo brew install git
+  154  git --list
+  155  history
+  156  which git
+  157  git --version
+  158  cd /usr/bin/
+  159  git --verison
+  160  git --version
+  161  cd /Applications; clear; pwd
+  162  ls
+  163  open Applications/SourceTree.app
+  164  open Applications
+  165  open /Applications
+  166  git --version
+  167  cd /
+  168  git --version
+  169  git config
+  170  git --config
+  171  git
+  172  git config
+  173  git config --global
+  174  git config --global
+  175  git config --list
+  176  git help config
+  177  git help config
+  178  cd Desktop/
+  179  mkdir gitTest
+  180  cd gitTest/
+  181  git init
+  182  open .
+  183  ls
+  184  ls -la
+  185  cd .git/
+  186  ls
+  187  cd ..
+  188  cd .git/
+  189  open .
+  190  cd .
+  191  cd ..
+  192  touch a.c
+  193  touch b.c
+  194  touch c.c
+  195  touch README
+  196  touch d.java
+  197  git add *.c
+  198  git add README
+  199  git commit -m 'initial project version'
+  200  cd .git/
+  201  ls
+  202  open .
+  203  cd ..
+  204  cd ..
+  205  mkdir goshopping
+  206  cd goshopping/
+  207  git clone git@github.com:dainixiao/GoShopping.git
+  208  open .
+  209  git clone https://github.com/dainixiao/GoShopping.git
+  210  touch a.c
+  211  ls
+  212  cd GoShopping/
+  213  touch a.c
+  214  ls
+  215  git add *.c
+  216  ls
+  217  git commit -m 'commit a.c file'
+  218  git status
+  219  ls
+  220  touch b.c
+  221  git status
+  222  git add *.c
+  223  git status
+  224  git commit -m 'commit b.c file'
+  225  git status
+  226  git push
+  227  git diff
+  228  git diff --cached
+  229  rm a.c
+  230  git status
+  231  git rm a.c
+  232  git status
+  233  git commit -m 'delete a.c file'
+  234  git push
+  235  git push
+  236  git log
+  237  git log -p -2
+  238  git config
+  239  git config --global user.name
+  240  git config --global user.password
+  241  git config --global user.email
+  242  git config --list
+  243  cd /Users/liu/
+  244  ls
+  245  ls -al
+  246  open .
+  247  clean
+  248  clear
+  249  git config --list
+  250  git help
+  251  git help commit
+  252  cd Desktop/
+  253  cd gitTest/
+  254  ls
+  255  ls -la
+  256  vim README
+  257  git add README
+  258  git status
+  259  ls
+  260  git add d.java
+  261  git status
+  262  git commit -m 'wrote file'
+  263  vim README
+  264  git status
+  265  git diff README
+  266  git add README
+  267  git status
+  268  git commit -m "add distributed"
+  269  git status
+  270  ls
+  271  vim README
+  272  git status
+  273  git diff README
+  274  git status
+  275  git add README
+  276  git status
+  277  git commit -m "add"
+  278  git status
+  279  vim README
+  280  git status
+  281  git diff README
+  282  git status
+  283  git add README
+  284  git commont -m "update"
+  285  git commit -m "update"
+  286  git status
+  287  git log
+  288  git log --pretty=oneline
+  289  git reset --hard HEAD~1
+  290  cat README
+  291  git reset --hard HEAD
+  292  git reset --hard HEAD~0
+  293  git reset --hard HEAD~2
+  294  git reset --hard
+  295  git reset --hard HEAD~0
+  296  git reset --hard HEAD~1
+  297  git reset --hard HEAD~2
+  298  git log
+  299  git log --protty=oneline
+  300  git log --pretty=oneline
+  301  git reset --hard dda198222d8454fd71ba4be07fe72db71e5c5079
+  302  git log --pretty=oneline
+  303  git reset --hard HEAD~1
+  304  git log --pretty=oneline
+  305  git reset --hard dda198222d8454fd71ba4be07fe72db71e5c5079
+  306  git log
+  307  git log --pretty=oneline
+  308  git reflog
+  309  git status
+  310  ls
+  311  cd .git/
+  312  open .
+  313  cd ...
+  314  ls
+  315  cd ..
+  316  vi README
+  317  git add README
+  318  git status
+  319  vi README
+  320  git status
+  321  git commit -m 'git tracks changes'
+  322  git status
+  323  git diff HEAD -- README
+  324  git diff README
+  325  git add README
+  326  git status
+  327  git commit -m 'commit'
+  328  git status
+  329  git status
+  330  vi README
+  331  git commit 'jjj'
+  332  git commit -m 'jjj'
+  333  git status
+  334  git diff head -- README
+  335  git status
+  336  git diff README
+  337  git add README
+  338  git status
+  339  git commit -m 'jjj'
+  340  git status
+  341  git log --pretty=online
+  342  git log --pretty=online
+  343  git log --help
+  344  git log --pretty=oneline
+  345  git prflog
+  346  git reflog
+  347  git --help
+  348  vi README
+  349  git status
+  350  git checkout -- README
+  351  git status
+  352  cat README
+  353  vi README
+  354  git status
+  355  cat README
+  356  git checkout -- README
+  357  cat README
+  358  git status
+  359  vi README
+  360  cat README
+  361  git add README
+  362  git status
+  363  git reset HEAD README
+  364  git status
+  365  cat README
+  366  git status
+  367  git checkout -- README
+  368  cat README
+  369  touch test.txt
+  370  ls
+  371  git add test.txt
+  372  git commit -m 'add text.txt'
+  373  git status
+  374  ls
+  375  rm test.txt
+  376  ls
+  377  git status
+  378  git checkout -- test.txt
+  379  ls
+  380  git status
+  381  rm test.txt
+  382  git status
+  383  git rm test.txt
+  384  git status
+  385  git commit -m 'delete file'
+  386  git status
+  387  git remote add origin git@github.com:dainixiao/gitTest.git
+  388  git push -u origin master
+  389  sudo git push -u origin master
+  390  git push -u origin master
+  391  git remote add origin https://github.com/dainixiao/gitTest.git
+  392  git push -u origin master
+  393  git remote rm origin
+  394  git remote add origin git@github.com:dainixiao/gitTest.git
+  395  ssh -T git@github.com
+  396  ssh -agent
+  397  ssh -agent
+  398  ssh-agent
+  399  ssh-add~/.ssh/id_key
+  400  ssh-add ~/.ssh/id_key
+  401  git push origin master
+  402  git remote rm origin
+  403  ssh -T git@github.com
+  404  ssh-agent
+  405  ssh -add ~/.ssh/id_key
+  406  ssh-add ~/.ssh/id_key
+  407  ccd /
+  408  cd /
+  409  which ssh
+  410  cd ~
+  411  ls -la
+  412  cd .ssh/
+  413  ls
+  414  open .
+  415  open .
+  416  git remote add origin git@github.com:dainixiao/gitTest.git
+  417  cd Desktop/
+  418  cd gitTest/
+  419  ls
+  420  git remote add origin git@github.com:dainixiao/gitTest.git
+  421  git push -u origin master
+  422  eval 'ssh-agent -s'
+  423  ssh-add ~/.ssh/github_rsa
+  424  git push -u origin master
+  425  git push -u origin master
+  426  ssh-add ~/.ssh/github_rsa
+  427  git push -u origin master
+  428  git push -u origin master
+  429  ssh -T git@github.com
+  430  sudo git push -u origin master
+  431  sudo git push
+  432  ssh -vT git@github.com
+  433  eval "$(ssh-agent -s)"
+  434  ssh-add -l
+  435  ssh-add -l -E md5
+  436  ssh-keygen -t rsa -b 4096 -C "13126965258@163.com"
+  437  eval "$(ssh-agent -s)"
+  438  ssh-add ~/.ssh/id_rsa
+  439  git remote add origin git@github.com:dainixiao/gitTest.git
+  440  git push -u origin master
+  441  sudo git push -u origin master
+  442  sudo git push -f origin master
+  443  git push origin master
+  444  sudo git push origin master
+  445  cd ..
+  446  mkdir colneGitTest
+  447  cd colneGitTest/
+  448  git clone git@github.com:dainixiao/gitTest.git
+  449  open .
+  450  ls
+  451  cd gitTest/
+  452  ls
+  453  vi README
+  454  git status
+  455  git add README
+  456  git status
+  457  git commit -m '测试更新提交'
+  458  git status
+  459  git push origin master
+  460  git pull --rebase origin master
+  461  git log --pretty=oneline
+  462  git branch dev
+  463  git checkout dev
+  464  git branch
+  465  ls
+  466  cd README
+  467  vi README
+  468  git add README
+  469  git commit -m "branch test"
+  470  git status
+  471  git checkout master
+  472  git branch
+  473  cat README
+  474  git merge dev
+  475  cat README
+  476  git push origin master
+  477  git branch
+  478  git branch dev
+  479  git checkout dev
+  480  git branch
+  481  vi README
+  482  git status
+  483  git add README
+  484  git commit -m '提交分支'
+  485  git status
+  486  git push origin dev
+  487  git checkout master
+  488  git merge dev
+  489  git status
+  490  git branch
+  491  git push origin master
+  492  git branch -d dev
+  493  git status
+  494  git push origin master
+  495  git branch
+  496  git log --graph
+  497  git log --graph --pretty=oneline
