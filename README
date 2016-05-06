@@ -324,3 +324,70 @@
   495  git branch
   496  git log --graph
   497  git log --graph --pretty=oneline
+  459  ls
+  460  echo_supervisord_conf > /etc/supervisord.conf
+  461  sudo echo_supervisord_conf
+  462  sudo echo_supervisord_conf > /etc/supervisord.conf
+  463  sudo echo_supervisord_conf > /etc/supervisord.conf
+  464  ls
+  465  supervisord -c supervisord.conf
+  466  ls
+  467  cd /
+  468  supervisord -c supervisord.conf
+  469  sodu echo_supervisord_conf
+  470  sudo echo_supervisord_conf
+  471  clear
+  472  echo_supervisord_conf
+  473  echo_supervisord_conf > /etc/supervisord.conf
+  474  sudo echo_supervisord_conf > /etc/supervisord.conf
+  475  cd /etc
+  476  touch supervisord.conf
+  477  sudo touch supervisord.conf
+  478  ls
+  479  cd ..
+  480  cd ..
+  481  echo_supervisord_conf > /etc/supervisord.conf
+  482  sudo echo_supervisord_conf > /etc/supervisord.conf
+  483  cd /etc
+  484  supervisord -c supervisord.conf
+  485  open .
+  486  clear
+  487  supervisord
+  488  echo_supervisord_conf
+  489  supervisorctl start all
+  490  supervisorctl start all
+  491  sudo supervisord
+  492  sudo supervisorctl
+  499  supervisorctl start all
+  503  ls
+  504  cd supervisor.sock
+  505  which supervisor.sock
+  509  echo_supervisord_conf
+  514  supervisord
+  515  sudo supervisord
+  516  supervisord -c /etc/supervisord.conf
+  517  sudo supervisord -c /etc/supervisord.conf
+  518  supervisord -u user
+  519  supervisord -u liu
+  520  sudo supervisord -u liu
+  521  sudo supervisord -c /etc/supervisord.conf
+  522  # 使用 user 用户启动 supervisord
+  523  supervisord -u user
+  524  sudo supervisord -c /etc/supervisord.conf
+  525  ps -ef | grep supervisord
+  526  kill -s SIGTERM 40004
+  527  sudo kill -s SIGTERN 40004
+  528  sudo kill -s SIGTERM 40004
+  529  ps -ef | grep supervisord
+  530  sudo supervisord -c /etc/supervisord.conf
+  531  supervisorctl stop all
+  532  sudo supervisorctl stop all
+  533  ps -ef | grep supervisord
+  534  sudo kill -s SIGTERM 400065
+  535  sudo kill -s SIGTERM 40065
+  536  ps -ef | grep supervisord
+  537  supervisorctl status
+  538  sudo supervisord -c /etc/supervisord.conf
+  539  supervisorctl status
+  540  ps -ef | grep supervisord
+  541  sudo kill -s SIGTERM 40098
