@@ -391,3 +391,16 @@
   539  supervisorctl status
   540  ps -ef | grep supervisord
   541  sudo kill -s SIGTERM 40098
+
+  501  ps -ef | grep nginx
+
+  515  cat pid nginx
+  516  cat pid
+  517  kill -HUP nginx 3791
+ 
+  552  sudo kill -HUP 3790
+  553  ps -ef | grep nginx
+
+  561  sudo kill -HUP 3790
+  562  sudo /usr/local/bin/nginx -t -c /usr/local/etc/nginx/nginx.conf
+
