@@ -454,4 +454,35 @@
   508  sudo -H pip install --ignore-installed six
   509  sudo pip install Scrapy --upgrade --ignore-installed six
   510  scrapy
+   432  sudo rm -rf /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six*
+  433  sudo rm -rf /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six*
+  434  sudo rm -rf /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six*
+  435  csrutil status
+  436  csrutil disable
+  437  csrutil disable
+  438  csrutil status
+  439  sudo rm -rf /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six*
+  440  sudo pip uninstall six
+  441  sudo pip install six
+  442  scrapy version
+  443  cd Desktop/
+  444  cd scrapy/
+  445  scrapy startproject tutorial
+  446  cd tutorial/
+  447  ls
+  448  cd tutorial/
+  449  scrapy crawl dmoz
+  450  scrapy crawl dmoz
+  451  scrapy crawl dmoz
+  452  scrapy crawl dmoz -o items.json -t json
+  453  scrapy version
+  454  scrapy crawl dmoz
+  455  scrapy shell "http://www.dmoz.org/Computers/Programming/Languages/Python/Books/"
+  468  scrapy crawl dmoz -o items.json
+  72  scrapy crawl dmoz -o items.json
+
+  494  scrapy
+  495  scrapy tutorial
+  499  scrapy -h
+  500  scrapy shell http://doc.scrapy.org/en/latest/_static/selectors-sample1.html
 
