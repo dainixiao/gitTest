@@ -404,3 +404,54 @@
   561  sudo kill -HUP 3790
   562  sudo /usr/local/bin/nginx -t -c /usr/local/etc/nginx/nginx.conf
 
+  459  /usr/local/bin/nginx -t -c /usr/local/etc/nginx/nginx.conf
+  460  sudo /usr/local/bin/nginx -t -c /usr/local/etc/nginx/nginx.conf
+  461  sudo /usr/local/bin/nginx  -c /usr/local/etc/nginx/nginx.conf
+  462  pip install Scrapy
+  463  sudo pip install Scrapy
+  464  sudo pip install Scrapy
+  465  scrapy
+  466  scrapy
+  467  pip Uninstalling six-1.4.1
+  468  Uninstalling six-1.4.1
+  469  pip uninstalling six-1.4.1
+  470  pip uninstall six-1.4.1
+  471  pip list
+  472  scipy
+  473  pip install Scrapy
+  474  sudo pip install scrapy --ingnore-installed six
+  475  sudo pip install Scrapy --ingnore-installed six
+  476  sudo pip install --upgrade scrapy --ignore-installed six
+  477  pip list
+  478  sudo pip install scrapy --ingnore-installed six
+  479  pip install scrapy
+  480  pip install Scrapy
+  481  sudo pip install Scrapy
+  482  xcode-select --install
+  483  sudo pip install Scrapy
+  484  sudo pip install Scrapy
+  485  STATIC_DEPS=true pip install lxml
+  486  pip list
+  487  STATIC_DEPS=true pip install lxml
+  488  sudo pip install Scrapy
+  489  pip unintall six 1.4.1
+  490  pip uninstall six 1.4.1
+  491  sudo pip uninstall six 1.4.1
+  492  sudo -H pip uninstall six 1.4.1
+  493  scrapy
+  494  pip install --upgrade pip virtualenv setuptools
+  495  sudo pip install --upgrade pip virtualenv setuptools
+  496  sudo pip install --upgrade pip virtualenv setuptools
+  497  pip install Scrapy
+  498  ps -ef | grep nginx
+  499  kill -QUIT 25713
+  500  sudo kill -QUIT 25713
+  501  sudo pip install Scrapy
+  504  xcode-select --install
+  505  sudo pip install Scrapy
+  506  pip install --ignore-installed six
+  507  pip list
+  508  sudo -H pip install --ignore-installed six
+  509  sudo pip install Scrapy --upgrade --ignore-installed six
+  510  scrapy
+
