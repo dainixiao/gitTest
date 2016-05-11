@@ -17,3 +17,7 @@ class DmozItem(Item):
     description = Field()
     url = Field()
     times = Field()
+class QsbkItem(Item):
+    desc = Field()
+    nick = Field()
+

@@ -20,6 +20,10 @@ ITEM_PIPELINES = {
     # 'AppleScrapy.pipelines.ApplescrapyPipeline': 300,
     'AppleScrapy.pipelines.AppleCrawlScrapyPipeline': 400,
 }
+DOWNLOADER_MIDDLEWARES = {
+   # 'misc.middleware.CustomHttpProxyMiddleware': 400,
+    'AppleScrapy.middleware.CustomUserAgentMiddleware': 401,
+}
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'AppleScrapy (+http://www.yourdomain.com)'
 
